@@ -1,4 +1,4 @@
-# AI Surgical Assistant for Laparoscopic Surgery
+# OPERA-Operative-Perception-and-Risk-Assessment-Agent
 
 This project implements a LangChain-based surgical assistant agent using a RAG workflow.
 
