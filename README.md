@@ -15,6 +15,19 @@ Safety constraints enforced:
   - 0.3-0.7 MODERATE
   - 0.7-1.0 HIGH
 
+## Adverse Conditions & Penalties
+
+| Adverse Condition         | Penalty (Δs) |
+|---------------------------|--------------|
+| Active bleeding detected  | +0.50        |
+| Systolic BP < 90 mmHg     | +0.20        |
+| Heart rate > 120 bpm      | +0.10        |
+| SpO₂ < 92%                | +0.20        |
+| Unclear anatomy           | +0.20        |
+| Bile leak detected        | +0.20        |
+| Thermal injury risk       | +0.15        |
+
+
 ## Setup
 
 ```bash
